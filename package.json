@@ -1,0 +1,27 @@
+{
+  "name": "not-app",
+  "version": "1.0.0",
+  "description": "Note app application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/33185/Note-app.git"
+  },
+  "author": "Hameed Hassan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/33185/Note-app/issues"
+  },
+  "homepage": "https://github.com/33185/Note-app#readme",
+  "dependencies": {
+    "@babel/core": "^7.17.7",
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "express": "^4.17.3",
+    "memorystorage": "^0.12.0",
+    "sequential-ids": "0.0.0"
+  }
+}
